@@ -16,3 +16,10 @@ var myVar = "Hello, world!";
 ```
 print("Hello, World!")
 ```
+## My To-Do List  
+- [x] Add headers to the file  
+- [x] Insert an image  
+- [x] Include a code block  
+- [ ] Create a task list  
+- [ ] Complete the Markdown tutorial  
+
